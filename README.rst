@@ -15,9 +15,8 @@ colonel
   :target: http://colonel.readthedocs.io/en/latest/?badge=latest
   :alt: Documentation Status
 
-**Colonel** is a *Python 3* library for handling *CoNLL* data formats.
-
-
 .. image:: https://badges.gitter.im/nlpodyssey/colonel.svg
    :alt: Join the chat at https://gitter.im/nlpodyssey/colonel
    :target: https://gitter.im/nlpodyssey/colonel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
+**Colonel** is a *Python 3* library for handling *CoNLL* data formats.
